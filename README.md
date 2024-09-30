@@ -2,11 +2,9 @@
 
 🇧🇷
 - 🌱 Atualmente cursando Sistemas de Informação na Unimontes;
-- 🌱 Estudando JavaScript, HTML e CSS;
 
 🇬🇧
 - 🌱 Computer Science student at Unimontes;
-- 🌱 Studiyng JavaScript, HTML and CSS;
 
  📫 Connect with me:
 [<br><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" />](https://www.linkedin.com/in/racheldenucci/)
